@@ -18,7 +18,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://www.apicloud.com/icon1/4c/ba/4cba43061abd685ef770215e90489e7f.57x57.png</string>
+						<string>http://120.79.187.13/images/icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -26,15 +26,15 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://www.apicloud.com/icon1/4c/ba/4cba43061abd685ef770215e90489e7f.57x57.png</string>
+						<string>http://120.79.187.13/images/icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>syjsd.aloud.com</string>
+					<string>com.cloud.txwz</string>
 					<key>bundle-version</key>
-					<string>0.0.1</string>
+					<string>0.0.3</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
